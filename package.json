@@ -1,6 +1,6 @@
 {
   "name": "phplumbermill",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Dirt simple php logging.",
   "main": "log.php",
   "repository": {
