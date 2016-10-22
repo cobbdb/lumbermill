@@ -1,25 +1,6 @@
 {
   "name": "phplumbermill",
   "version": "1.0.4",
-  "description": "Dirt simple php logging.",
-  "main": "log.php",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/cobbdb/phplumbermill.git"
-  },
-  "keywords": [
-    "log",
-    "logging",
-    "php",
-    "simple",
-    "easy",
-    "fast",
-    "quick"
-  ],
   "author": "Dan Cobb <cobbdb@gmail.com>",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/cobbdb/phplumbermill/issues"
-  },
-  "homepage": "https://github.com/cobbdb/phplumbermill#readme"
+  "license": "MIT"
 }

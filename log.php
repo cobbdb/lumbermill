@@ -12,11 +12,11 @@ class log {
     }
 
     public static function title($msg) {
-        self::$log .= self::spacing() . $msg . " ...\n";
+        self::$log .= self::spacing() . "$msg ...\n";
         self::$indent += 1;
     }
     public static function write($msg) {
-        self::$log .= self::spacing() . '... ' . $msg . "\n";
+        self::$log .= self::spacing() . "... $msg\n";
     }
     public static function end($msg) {
         self::write($msg);
